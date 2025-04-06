@@ -4,7 +4,7 @@
 ## Overview
  A deep dive into Airbnb data using Python. I cleaned, explored, visualized, and even built predictive models to help hosts and guests make smarter decisions. With top-notch libraries like Pandas, NumPy, Matplotlib, and Seaborn, I turned messy data into clear, actionable insights—no cap.
 
-![Image](https://github.com/user-attachments/assets/b97c5786-cd7a-4287-9ff4-652b6d712952)
+![Image](https://github.com/user-attachments/assets/9253c7ee-29e9-4f5a-b737-d7bb066e681a)
 
 
  
